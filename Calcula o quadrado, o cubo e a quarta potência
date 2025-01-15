@@ -1,0 +1,5 @@
+print("informe um valor:")
+valor=float(input())
+print("quadrado do valor-", valor**2)
+print("cubo do valor -", valor**3)
+print("valor na quarta-", valor**4)
